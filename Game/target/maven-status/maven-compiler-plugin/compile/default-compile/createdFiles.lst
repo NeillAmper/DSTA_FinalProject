@@ -1,0 +1,10 @@
+com\mycompany\game\Entity.class
+com\mycompany\game\Hero$1.class
+com\mycompany\game\DeathDialogue.class
+com\mycompany\game\Monster.class
+com\mycompany\game\Skill.class
+com\mycompany\game\HeroType.class
+com\mycompany\game\Game.class
+com\mycompany\game\StatusEffect.class
+com\mycompany\game\Hero.class
+com\mycompany\game\Dungeon.class
